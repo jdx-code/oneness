@@ -5,3 +5,11 @@
 body{
   background-color: #f0f1f2;
 }
+
+/* Photo by <a href="https://unsplash.com/@grakozy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Greg Rakozy</a> on <a href="https://unsplash.com/photos/oMpAz-DN-9I?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> */
+.heroClass{    
+  background: linear-gradient(rgba(10, 0, 14, 0.7), rgba(13, 0, 19, 0.7)), url(assets/hero-img.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;    
+}
